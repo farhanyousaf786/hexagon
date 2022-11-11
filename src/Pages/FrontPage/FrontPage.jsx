@@ -5,6 +5,7 @@ import './FrontPage.css';
 const FrontPage = () => {
  
   return (
+    
     <div className="fp-container">
       <h1>Fornt Page is here</h1>
     </div>

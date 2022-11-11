@@ -29,10 +29,12 @@ const Header = () => {
   <input class="menu-btn" type="checkbox" id="menu-btn" />
   <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
   <ul class="menu">
-    <li><a href="#work">Our Work</a></li>
-    <li><a href="#about">About</a></li>
-    <li><a href="#careers">Careers</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#work">Home</a></li>
+    <li><a href="#about">Products</a></li>
+    <li><a href="#careers">Services</a></li>
+    <li><a href="#contact">Gallery</a></li>
+    <li><a href="#contact">About Us</a></li>
+
   </ul>
 </header>
 
