@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import './Header.scss';
+import './Header.css';
 
 
 const Header = () => {
@@ -15,14 +15,29 @@ const Header = () => {
   const isSticky = (e) => {
     const header = document.querySelector(".header-section");
     const scrollTop = window.scrollY;
-    scrollTop >= 250
+    scrollTop >= 100
       ? header.classList.add("is-sticky")
       : header.classList.remove("is-sticky");
   };
   return (
     <>
       <header className="header-section d-none d-xl-block">
-        ..add header code
+
+
+      <header class="header">
+  <a href="" class="logo">CSS Nav</a>
+  <input class="menu-btn" type="checkbox" id="menu-btn" />
+  <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
+  <ul class="menu">
+    <li><a href="#work">Our Work</a></li>
+    <li><a href="#about">About</a></li>
+    <li><a href="#careers">Careers</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ul>
+</header>
+
+
+
       </header>
     </>
   );
