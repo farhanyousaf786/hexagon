@@ -1,7 +1,8 @@
 import React from 'react'
 import Header from '../../Components/Header/Header';
 import FrontPage from '../FrontPage/FrontPage';
-import Products from '../Products/Products';
+import Products from '../ProductsPage/Products';
+import Services from '../ServicesPage/Services';
 import './LandingPage.css';
 
 
@@ -15,6 +16,7 @@ function LandingPage() {
      <Header />
      <FrontPage/>
      <Products/>
+     <Services/>
     </div>
      
       

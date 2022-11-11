@@ -7,7 +7,7 @@ const Products = () => {
   return (
     
     <div className="pro-container">
-      <h1>Prod Page is here</h1>
+      <h1>Product Page is here</h1>
     </div>
   );
 };
