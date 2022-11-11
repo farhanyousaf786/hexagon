@@ -1,5 +1,6 @@
 import React from 'react'
 import Header from '../../Components/Header/Header';
+import About from '../AboutPage/About';
 import FrontPage from '../FrontPage/FrontPage';
 import Products from '../ProductsPage/Products';
 import Services from '../ServicesPage/Services';
@@ -17,6 +18,7 @@ function LandingPage() {
      <FrontPage/>
      <Products/>
      <Services/>
+     <About/>
     </div>
      
       
