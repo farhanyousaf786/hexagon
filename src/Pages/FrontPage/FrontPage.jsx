@@ -7,7 +7,10 @@ const FrontPage = () => {
   return (
     
     <div className="fp-container">
-      <h1>Fornt Page is here</h1>
+     
+     <h1>dd</h1>
+
+
     </div>
   );
 };

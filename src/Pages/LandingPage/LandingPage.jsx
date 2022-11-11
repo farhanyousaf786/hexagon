@@ -5,19 +5,11 @@ import FrontPage from '../FrontPage/FrontPage';
 import Products from '../ProductsPage/Products';
 import Services from '../ServicesPage/Services';
 import './LandingPage.css';
-import {useRef} from 'react';
 import Gallery from '../GalleryPage/Gallery';
 
 
 
-
-
-
 function LandingPage() {
-
-
-
-    const ref = useRef([]);
 
 
     const homeClick = () => {
@@ -45,6 +37,10 @@ function LandingPage() {
         section.scrollIntoView( { behavior: 'smooth', block: 'start' } );         
       };
 
+
+
+
+
     return (
     <div className='lp-container'>
 
@@ -60,12 +56,7 @@ function LandingPage() {
      <div id='services'><Services/></div>
      <div id='gallery'><Gallery/></div>
      <div id='about'><About/></div>
-
-    </div>
-     
-      
-
-     
+    </div> 
     )
   
 }
