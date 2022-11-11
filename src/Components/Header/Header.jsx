@@ -1,4 +1,6 @@
 import React, { useEffect } from "react";
+import './Header.css';
+
 
 const Header = () => {
   // Sticky Menu Area
