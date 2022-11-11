@@ -1,4 +1,5 @@
 import React from 'react'
+import Header from '../../Components/Header/Header';
 
 
 
@@ -7,7 +8,9 @@ function LandingPage() {
 
     return (
     
-      <h3>Landing page is here..</h3>
+      <Header />
+      
+
      
     )
   
