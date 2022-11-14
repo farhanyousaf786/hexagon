@@ -11,10 +11,12 @@ const Products = () => {
       <h1>HEXAGON SCAFFOLDING INC.</h1>
       <h3>SUSPENDED SCAFFOLD RENTALS, SALES & SERVICES</h3>
       <h4>OUR MISSION</h4>
+
       </div>
 
-      <div>
-     <h1>OUR PRODUCTS</h1>
+     <center><h1>PRODUCTS</h1></center> 
+
+    
 
        <div className="slide-box">
 
@@ -69,7 +71,6 @@ const Products = () => {
        </div>
       </div>
       
-    </div>
   );
 };
 

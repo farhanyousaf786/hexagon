@@ -1,8 +1,7 @@
 
 .pro-container{
 
-    background-color: rgb(213, 187, 41);
-    padding-top: 60px;
+	background-color: rgb(2, 14, 138);    padding-top: 60px;
     min-height: 100vh;
 
 }
@@ -23,13 +22,14 @@ $animationSpeed: 40s;
 
 // Styling
 .slider {
-	background: white;
+	background: rgb(228, 0, 0);
 	box-shadow: 0 10px 20px -5px rgba(0, 0, 0, .125);
 	height: 100px;
 	margin: auto;
 	overflow:hidden;
 	position: relative;
-	width: 960px;
+	width: 1300px;
+	border-radius: 10px;
 	
 	&::before,
 	&::after {
