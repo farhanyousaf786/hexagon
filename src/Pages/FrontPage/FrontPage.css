@@ -1,13 +1,30 @@
 
-  
+  #overlayDiv {
+    
+}
+
 .fp-container{
 
-    background-color: rgb(234, 143, 143);
-    padding-top: 60px;
+    background-color: rgb(2, 14, 138);
     min-height: 100vh;
+    padding-top: 60px;
+    
+
 
 }
 
+.shade{
+
+    background-color: rgba(0, 123, 255, 0.674);
+    opacity: 0.8;
+    min-height: 93vh;
+   
+
+}
+
+.logo {
+    margin-left: 200px;
+  }
 
 @keyframes slidy {
     0% { left: 0%; }
@@ -21,8 +38,7 @@
     100% { left: -400%; }
     }
     
-    body { margin: 0; } 
-    div#slider { overflow: hidden; }
+    /* div#slider { overflow: hidden; } */
     div#slider figure img { width: 20%; float: left; }
     div#slider figure { 
       position: relative;
