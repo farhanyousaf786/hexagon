@@ -18,8 +18,9 @@ const FrontPage = () => {
      </div>
      <div className="shade">
      </div>
-     <div class="logo">
-     <h2>child 2</h2>
+
+     <div className="logo">
+     <img  className="img" src="https://imgur.com/m2CGOHJ.jpg" alt/>
      </div>
      </div> 
   );
