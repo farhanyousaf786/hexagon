@@ -27,7 +27,7 @@ function Header ({homeClick, productsClick, servicesClick, galleryClick, aboutCl
     <>
     <header className="header-section d-none d-xl-block">
     <div class="header">
-    <a href="" class="logo">Hexagon Scaffolding</a>
+    <a href="" class="header-logo">Hexagon Scaffolding</a>
     <input class="menu-btn" type="checkbox" id="menu-btn" />
     <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
     <ul class="menu">
