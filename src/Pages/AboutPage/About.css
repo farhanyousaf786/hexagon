@@ -2,7 +2,7 @@
 .about-container{
 
     background-color: rgb(2, 14, 138);
-        padding-top: 60px;
+    padding-top: 60px;
     min-height: 100vh;
 
 }
@@ -13,4 +13,5 @@ p{
 
     text-align: center;
     font-size: 25px;
+    
 }
