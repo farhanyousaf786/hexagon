@@ -10,7 +10,7 @@ const Products = () => {
       <div className="intro">
       <h1>HEXAGON SCAFFOLDING INC.</h1>
       <h3>SUSPENDED SCAFFOLD RENTALS, SALES & SERVICES</h3>
-      <h4>OUR MISSION</h4>
+      <h4>Hexagon Scaffolding, Inc. is Suspended Scaffold Rental, Sales and Service company with the focus of best customer services. Our mission is to provide best of best service in all customer rigging/suspended scaffold needs including but not limited to onsite visit, pre mobilization survey, equipment calculation, engineering drawing and special rigger expertise.</h4>
       <h1>PRODUCTS</h1>
       </div>
 
