@@ -14,14 +14,18 @@ const About = () => {
     
     <div className="about-container">
            
-           <p><a>VISIT HERE</a></p>
+           <p><a>LOCATION</a></p>
 
       < SimpleMap location={location}  zoomLevel={9}/>
-      <p>
+      
+      <div className="about-add">
+
       <a>HEXAGON SCAFFOLDING INC</a><br/>
       <a>369 Jellif Ave | Newark | NJ 07108</a><br/>
-      <a>PHONE: (718) 725 8969 EXT 05</a>
-      </p>
+      <a>PHONE: (718) 725 8969 EXT 05</a> 
+      </div>
+      
+      
     
     </div>
   );
