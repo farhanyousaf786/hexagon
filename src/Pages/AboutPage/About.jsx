@@ -7,10 +7,13 @@ const About = () => {
   return (
     
     <div className="about-container">
-      <h1>HEXAGON SCAFFOLDING INC</h1>
-      <h1>369 jellif Ave | Newark | NJ 07108</h1>
-      <h1>About Page is here</h1>
-      <h1>About Page is here</h1>
+      <p>
+      <a>HEXAGON SCAFFOLDING INC</a><br/>
+      <a>369 Jellif Ave | Newark | NJ 07108</a><br/>
+      <a>PHONE: (718) 725 8969 EXT 05</a>
+      </p>
+      
+    
     </div>
   );
 };
