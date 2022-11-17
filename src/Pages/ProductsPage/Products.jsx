@@ -14,9 +14,6 @@ const Products = () => {
       <h1>PRODUCTS</h1>
       </div>
 
-       <div className="slide-box">
-
-       <div class="slider">
 	<div class="slide-track">
 		<a></a><div class="slide">
 			<img src="https://imgur.com/UEUC3gE.png" alt="" />
@@ -60,11 +57,11 @@ const Products = () => {
 		<div class="slide">
 			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/7.png" height="100" width="250" alt="" />
 		</div> */}
-	</div>
-</div>
 
-       <div className="pro-list"><center><a href="" target="_blank" rel="noopener noreferrer"><h2>Product List</h2></a></center></div>
+
        </div>
+	   <div className="pro-list"><center><a href="" target="_blank" rel="noopener noreferrer"><h2>Product List</h2></a></center></div>
+
       </div>
       
   );
