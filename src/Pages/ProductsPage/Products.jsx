@@ -1,8 +1,20 @@
 import React from "react";
 import './Products.scss';
+import { useNavigate, Link } from "react-router-dom";
+
 
 
 const Products = () => {
+
+	const navigate = useNavigate();
+
+
+	function gotoProducts(){
+
+		navigate('/products-list');
+
+
+	}
  
   return (
     
