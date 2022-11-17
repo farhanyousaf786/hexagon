@@ -54,12 +54,24 @@ function LandingPage() {
     return (
     <div className='lp-container'>
 
-     {matches && (     <div id='home'><FrontPage/></div>)}
+     {matches && (<div id='home'><FrontPage/></div>)}
+     {matches && (<div id='products'><Products/></div>)}
+     {matches && (<div id='services'><Services/></div>)}
+     {matches && (<div id='gallery'><GalleryPage/></div>)}
+     {matches && (<div id='about'><About/></div>)}
 
-     <div id='products'><Products/></div>
-     <div id='services'><Services/></div>
-     <div id='gallery'><GalleryPage/></div>
-     <div id='about'><About/></div>
+     
+     {!matches && (<div id='home'><FrontPage/></div>)}
+     {!matches && (<div id='products'><Products/></div>)}
+     {!matches && (<div id='services'><Services/></div>)}
+     {!matches && (<div id='gallery'><GalleryPage/></div>)}
+     {!matches && (<div id='about'><About/></div>)}
+
+
+
+
+
+
      <Header 
      homeClick={homeClick} 
      productsClick={productsClick}

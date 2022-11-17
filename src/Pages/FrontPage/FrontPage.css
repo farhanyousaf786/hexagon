@@ -4,9 +4,6 @@
   object-fit: cover
 }
 
-
-
-
 @media only screen and (min-width: 1224px) {
 
     .img{
@@ -70,7 +67,8 @@
         .fp-container{
 
             background-color: rgb(2, 14, 138);
-            min-height: 100vh;
+            width: 100%;
+            height: 43.3%;
             padding-top: 60px;
         
         }
