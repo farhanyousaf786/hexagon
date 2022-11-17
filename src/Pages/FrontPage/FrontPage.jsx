@@ -10,21 +10,12 @@ const FrontPage = () => {
   return (
     
      <div className="fp-container">
-
-
-<Gallery/>
-
-<div className="front-shadding">dd</div>
-
+     <Gallery/>
+     <div className="front-shadding"></div>
      <div className="logo">
-
      <img  className="img" src="https://imgur.com/KWrxMRD.jpg" alt/>
-
      </div>
 
-
-
-     
  </div>
      
   );

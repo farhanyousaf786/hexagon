@@ -13,7 +13,7 @@ a {
 .header {
   background-color: rgb(2, 14, 138);
   box-shadow: 2px px 4px 0 rgba(0,0,0,.1);
-  position: fixed;
+  position:absolute;
   width: 100%;
   z-index: 3;
 }
@@ -52,6 +52,7 @@ a {
   clear: both;
   max-height: 0;
   transition: max-height .2s ease-out;
+  
 }
 
 /* menu icon */

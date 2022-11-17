@@ -5,7 +5,10 @@ import './Header.css';
 function Header ({homeClick, productsClick, servicesClick, galleryClick, aboutClick}){
   // Sticky Menu Area
   useEffect(() => {
+    const header = document.querySelector(".header-section");
     window.addEventListener("scroll", isSticky);
+     header.classList.add("is-sticky")
+
     return () => {
       window.removeEventListener("scroll", isSticky);
     };
@@ -15,13 +18,10 @@ function Header ({homeClick, productsClick, servicesClick, galleryClick, aboutCl
   const isSticky = (e) => {
     const header = document.querySelector(".header-section");
     const scrollTop = window.scrollY;
-    scrollTop >= 100
+    scrollTop >= 0
       ? header.classList.add("is-sticky")
       : header.classList.remove("is-sticky");
   };
-
-
-
 
   return (
     <>

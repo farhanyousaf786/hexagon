@@ -44,6 +44,12 @@ function LandingPage() {
     return (
     <div className='lp-container'>
 
+  
+     <div id='home'><FrontPage/></div>
+     <div id='products'><Products/></div>
+     <div id='services'><Services/></div>
+     <div id='gallery'><GalleryPage/></div>
+     <div id='about'><About/></div>
      <Header 
      homeClick={homeClick} 
      productsClick={productsClick}
@@ -51,11 +57,6 @@ function LandingPage() {
      galleryClick={galleryClick}
      aboutClick={aboutClick}
      />
-     <div id='home'><FrontPage/></div>
-     <div id='products'><Products/></div>
-     <div id='services'><Services/></div>
-     <div id='gallery'><GalleryPage/></div>
-     <div id='about'><About/></div>
     </div> 
     )
   
