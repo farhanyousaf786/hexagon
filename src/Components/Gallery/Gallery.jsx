@@ -10,7 +10,7 @@ const Gallery = () => {
   
   <div className="gallery-size">
   
-  <AliceCarousel autoPlay autoPlayInterval="3000" >
+  <AliceCarousel autoPlay autoPlayInterval="3000" disableButtonsControls="true">
 
   <img src="https://imgur.com/hXhZRyq.jpg" className="sliderimg"/>
   <img src="https://imgur.com/Hyppul2.jpg" className="sliderimg"/>
