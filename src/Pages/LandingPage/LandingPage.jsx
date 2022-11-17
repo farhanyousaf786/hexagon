@@ -39,12 +39,12 @@ function LandingPage() {
 
 
       const [matches, setMatches] = useState(
-        window.matchMedia("(min-width: 768px)").matches
+        window.matchMedia("(min-width: 1224px)").matches
       )
     
       useEffect(() => {
         window
-        .matchMedia("(min-width: 768px)")
+        .matchMedia("(min-width: 1224px)")
         .addEventListener('change', e => setMatches( e.matches ));
       }, []);
 
