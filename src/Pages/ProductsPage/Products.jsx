@@ -49,36 +49,12 @@ export default function Products (){
 		<a href="https://www.enfsolar.com/rgc-hosting" target="_blank" rel="noopener noreferrer"><div class="slide"> 	<img src="https://imgur.com/YgdOW8Y.png"  alt=""/> </div></a>
 
 
-
-
-
-		{/* <div class="slide">
-			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/1.png" height="100" width="250" alt="" />
-		</div>
-		<div class="slide">
-			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/2.png" height="100" width="250" alt="" />
-		</div>
-		<div class="slide">
-			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/3.png" height="100" width="250" alt="" />
-		</div>
-		<div class="slide">
-			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/4.png" height="100" width="250" alt="" />
-		</div>
-		<div class="slide">
-			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/5.png" height="100" width="250" alt="" />
-		</div>
-		<div class="slide">
-			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/6.png" height="100" width="250" alt="" />
-		</div>
-		<div class="slide">
-			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/7.png" height="100" width="250" alt="" />
-		</div> */}
-
-
        </div>
-	   <center><Button onClick={handleClick} color="yellow" appearance="primary">
-      Product List
-    </Button></center> 
+	  
+
+
+	<center><button onClick={handleClick} class="button-56" role="button">Product List</button></center>
+
 	
 	  
 
