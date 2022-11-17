@@ -9,6 +9,8 @@ const FrontPage = () => {
   return (
     
      <div className="fp-container">
+      <div className="front-shadding">dd</div>
+
 
 <AliceCarousel autoPlay autoPlayInterval="3000" >
 
@@ -18,9 +20,12 @@ const FrontPage = () => {
       <img src="https://imgur.com/HNkNRXs.jpg" className="sliderimg"/>
 </AliceCarousel>
 
-<div className="logo">
+     <div className="logo">
      <img  className="img" src="https://imgur.com/KWrxMRD.jpg" alt/>
      </div>
+
+
+     
  </div>
      
   );
