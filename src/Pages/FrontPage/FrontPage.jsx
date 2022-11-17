@@ -11,7 +11,7 @@ const FrontPage = () => {
      <div className="fp-container">
 
 <AliceCarousel autoPlay autoPlayInterval="3000" >
-      <img src="https://imgur.com/m2CGOHJ.jpg" className="sliderimg"/>
+      <img src="https://imgur.com/Hyppul2.jpg" className="sliderimg"/>
       <img src="https://imgur.com/m2CGOHJ.jpg" className="sliderimg"/>
       <img src="https://imgur.com/m2CGOHJ.jpg" className="sliderimg"/>
       <img src="https://imgur.com/m2CGOHJ.jpg" className="sliderimg"/>
