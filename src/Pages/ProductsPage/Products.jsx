@@ -4,17 +4,17 @@ import { useNavigate, Link } from "react-router-dom";
 
 
 
-const Products = () => {
+export default function Products (){
 
 	const navigate = useNavigate();
 
 
-	function gotoProducts(){
-
-		navigate('/products-list');
-
-
-	}
+	const handleClick = (e) => {
+		e.preventDefault();
+		console.log('The link was clicked.');
+		navigate('/products-list')
+	  }
+ 
  
   return (
     
@@ -76,11 +76,14 @@ const Products = () => {
 
 
        </div>
-	   <div className="pro-list"><center><a href="" target="_blank" rel="noopener noreferrer"><h2>Product List</h2></a></center></div>
+	   <center><Button onClick={handleClick} color="yellow" appearance="primary">
+      Product List
+    </Button></center> 
+	
+	  
 
       </div>
       
   );
 };
 
-export default Products;

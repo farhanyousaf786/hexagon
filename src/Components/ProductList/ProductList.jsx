@@ -1,5 +1,5 @@
 import React from "react";
-import './Productlist.css';
+import './ProductList.css';
 import AliceCarousel from 'react-alice-carousel';
 import "react-alice-carousel/lib/alice-carousel.css";
 
