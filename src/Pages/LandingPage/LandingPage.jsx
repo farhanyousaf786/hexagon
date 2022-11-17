@@ -1,4 +1,4 @@
-import React from 'react'
+import {React, useState, useEffect } from 'react'
 import Header from '../../Components/Header/Header';
 import About from '../AboutPage/About';
 import FrontPage from '../FrontPage/FrontPage';
@@ -38,14 +38,24 @@ function LandingPage() {
       };
 
 
+      const [matches, setMatches] = useState(
+        window.matchMedia("(min-width: 768px)").matches
+      )
+    
+      useEffect(() => {
+        window
+        .matchMedia("(min-width: 768px)")
+        .addEventListener('change', e => setMatches( e.matches ));
+      }, []);
+
 
 
 
     return (
     <div className='lp-container'>
 
-  
-     <div id='home'><FrontPage/></div>
+     {matches && (     <div id='home'><FrontPage/></div>)}
+
      <div id='products'><Products/></div>
      <div id='services'><Services/></div>
      <div id='gallery'><GalleryPage/></div>
