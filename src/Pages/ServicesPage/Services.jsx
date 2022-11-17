@@ -9,7 +9,7 @@ const Services = () => {
      <div className="ser-container">
      <center><h1>OUR SERVICES</h1></center>
      <div className="s-logo">
-     <img  className="img" src="https://imgur.com/xXfDawS.jpg" alt=""/>
+     <img  className="img-services" src="https://imgur.com/xXfDawS.jpg" alt=""/>
      </div>
      </div>
   );
