@@ -2,6 +2,7 @@ import React from "react";
 import './FrontPage.css';
 import AliceCarousel from 'react-alice-carousel';
 import "react-alice-carousel/lib/alice-carousel.css";
+import Gallery from "../../Components/Gallery/Gallery";
 
 
 const FrontPage = () => {
@@ -11,14 +12,7 @@ const FrontPage = () => {
      <div className="fp-container">
 
 
-<AliceCarousel autoPlay autoPlayInterval="3000" >
-
-      <img src="https://imgur.com/hXhZRyq.jpg" className="sliderimg"/>
-      <img src="https://imgur.com/Hyppul2.jpg" className="sliderimg"/>
-      <img src="https://imgur.com/lDsOMwB.jpg" className="sliderimg"/>
-      <img src="https://imgur.com/HNkNRXs.jpg" className="sliderimg"/>
-
-</AliceCarousel>
+<Gallery/>
 
 <div className="front-shadding">dd</div>
 
