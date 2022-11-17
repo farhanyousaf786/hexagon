@@ -19,25 +19,25 @@ const Products = () => {
        <div class="slider">
 	<div class="slide-track">
 		<div class="slide">
-			<img src="https://imgur.com/UEUC3gE.png" height="90" width="250" alt="" />
+			<img src="https://imgur.com/UEUC3gE.png" alt="" />
 		</div>
 		<div class="slide">
-			<img src="https://imgur.com/X0Bj4Ki.png" height="90" width="250" alt="" />
+			<img src="https://imgur.com/X0Bj4Ki.png" alt="" />
 		</div>
 		<div class="slide">
-			<img src="https://imgur.com/HTA0oEr.png" height="90" width="250" alt="" />
+			<img src="https://imgur.com/HTA0oEr.png" alt="" />
 		</div>
 		<div class="slide">
-			<img src="https://imgur.com/Hz28o9A.png" height="90" width="250" alt="" />
+			<img src="https://imgur.com/Hz28o9A.png"  alt="" />
 		</div>
 		<div class="slide">
-			<img src="https://imgur.com/apHppsm.png" height="90" width="250" alt="" />
+			<img src="https://imgur.com/apHppsm.png"  alt="" />
 		</div>
 		<div class="slide">
-			<img src="https://imgur.com/ljIVRr5.png" height="90" width="250" alt="" />
+			<img src="https://imgur.com/ljIVRr5.png"  alt="" />
 		</div>
 		<div class="slide">
-			<img src="https://imgur.com/YgdOW8Y.png" height="90" width="250" alt="" />
+			<img src="https://imgur.com/YgdOW8Y.png"  alt="" />
 		</div>
 		{/* <div class="slide">
 			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/1.png" height="100" width="250" alt="" />
