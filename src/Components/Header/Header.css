@@ -1,7 +1,10 @@
+@import url("https://fonts.googleapis.com/css?family=Belgrano");
+
 body {
   margin: 0;
-  font-family: Helvetica, sans-serif;
+  font-family: 'Belgrano';
   background-color: #f4f4f4;
+  font-weight: bold;
 }
 
 a {
@@ -41,7 +44,7 @@ a {
 .header .header-logo {
   display: block;
   float: left;
-  font-size: 2em;
+  font-size: 20px;
   padding: 10px 20px;
   text-decoration: none;
 }
@@ -172,8 +175,9 @@ a {
 
   .header .header-logo {
     
-    font-size: 1.2em;
-    padding-top: 1px;
+    font-size: 15px;
+    padding-top: 20px;
+    font-weight: 900;
   
   }
 
