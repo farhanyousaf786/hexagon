@@ -165,7 +165,9 @@ a {
 
   .header .header-logo {
     
-    font-size: 2em;}
+    font-size: 30px;
+  
+  }
 
 }
 
@@ -176,9 +178,14 @@ a {
   .header .header-logo {
     
     font-size: 15px;
-    padding-top: 20px;
+    padding-top: 18px;
     font-weight: 900;
   
+  }
+
+  a{
+
+    font-size: 12px;
   }
 
 }
