@@ -1,4 +1,11 @@
 
+
+
+
+
+@media only screen and (min-width: 1224px) {
+
+
 .ser-container{
 
     background-color: rgb(255, 255, 255);
@@ -24,4 +31,54 @@ font-size: 40px;
 
     height: 400px;
     width: 480px;
+}
+
+
+        
+}
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 1224px) {
+
+   
+
+
+.ser-container{
+
+    background-color: rgb(255, 255, 255);
+    padding-top: 40px;
+    min-height: 100vh;
+
+}
+.s-logo{
+
+    margin-top: 4%;
+    text-align: center;  
+}
+
+.ser-container h1{
+font-size: 40px;
+
+    color: rgb(2, 14, 138);
+}
+
+
+
+.img-services{
+
+    height: 400px;
+    width: 480px;
+}
+
+
+        
 }
