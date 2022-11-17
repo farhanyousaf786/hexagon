@@ -15,7 +15,7 @@
     .logo{
 
         position: absolute;
-        top: 44%;
+        top: 50%;
         left: 46%;
         
         
@@ -58,16 +58,15 @@
     .logo{
 
         position: absolute;
-        top: 20%;
+        top: 25%;
         margin: 0;
         position: absolute;
         left: 50%;
         margin-right: -50%;
         transform: translate(-50%, -50%) 
 
-        
-        
         }
+
         .fp-container{
 
             background-color: rgb(2, 14, 138);
