@@ -15,7 +15,7 @@ const Products = () => {
       </div>
 
 	<div class="slide-track">
-		<a></a><div class="slide">
+		<div class="slide">
 			<img src="https://imgur.com/UEUC3gE.png" alt="" />
 		</div>
 		<div class="slide">
