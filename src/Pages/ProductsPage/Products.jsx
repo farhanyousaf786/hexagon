@@ -18,23 +18,23 @@ const Products = () => {
 		<a href="https://altrex.com/int/en" target="_blank" rel="noopener noreferrer">freeCodeCamp> <div class="slide"> <img src="https://imgur.com/UEUC3gE.png" alt="" /></div></a>
 		
 
-		<a href="https://www.tractel.com/us"><div class="slide"> <img src="https://imgur.com/X0Bj4Ki.png" alt="" /> </div></a>
+		<a href="https://www.tractel.com/us" target="_blank" rel="noopener noreferrer">freeCodeCamp><div class="slide"> <img src="https://imgur.com/X0Bj4Ki.png" alt="" /> </div></a>
 		
 
-		<a href="https://beeaccess.com/"><div class="slide"> <img src="https://imgur.com/HTA0oEr.png" alt="" /> </div></a>
+		<a href="https://beeaccess.com/" target="_blank" rel="noopener noreferrer">freeCodeCamp><div class="slide"> <img src="https://imgur.com/HTA0oEr.png" alt="" /> </div></a>
 
 		
 
-		<a href="https://www.betamaxhoist.com/"><div class="slide"> <img src="https://imgur.com/Hz28o9A.png"  alt="" /> </div></a>
+		<a href="https://www.betamaxhoist.com/" target="_blank" rel="noopener noreferrer">freeCodeCamp><div class="slide"> <img src="https://imgur.com/Hz28o9A.png"  alt="" /> </div></a>
 		
 
-		<a href="https://www.bisoh.co.jp/en/"><div class="slide"> <img src="https://imgur.com/apHppsm.png"  alt="" /> </div></a>
+		<a href="https://www.bisoh.co.jp/en/" target="_blank" rel="noopener noreferrer">freeCodeCamp><div class="slide"> <img src="https://imgur.com/apHppsm.png"  alt="" /> </div></a>
 		
 
-		<a href="https://www.winsafe.com/"><div class="slide"> <img src="https://imgur.com/ljIVRr5.png"  alt="" /> </div></a>
+		<a href="https://www.winsafe.com/" target="_blank" rel="noopener noreferrer">freeCodeCamp><div class="slide"> <img src="https://imgur.com/ljIVRr5.png"  alt="" /> </div></a>
 		
 
-		<a href="https://www.enfsolar.com/rgc-hosting"><div class="slide"> 	<img src="https://imgur.com/YgdOW8Y.png"  alt=""/> </div></a>
+		<a href="https://www.enfsolar.com/rgc-hosting" target="_blank" rel="noopener noreferrer">freeCodeCamp><div class="slide"> 	<img src="https://imgur.com/YgdOW8Y.png"  alt=""/> </div></a>
 
 
 
