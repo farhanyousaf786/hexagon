@@ -1,10 +1,57 @@
 
+
+
+
+
+@media only screen and (min-width: 1224px) {
+
+    
 .gal-container{
 
-    background-color: rgb(210, 118, 152);
     padding-top: 60px;
     min-height: 100vh;
 
 }
+h1{
 
 
+    color: white;
+    font-size: 30px;
+
+    text-align: center;
+}
+
+
+
+
+        
+}
+
+
+@media only screen and (max-width: 1224px) {
+
+  
+.gal-container{
+
+    padding-top: 60px;
+    min-height: 100vh;
+    min-width: 300px;
+    border-radius: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    
+
+}
+
+
+
+h1{
+
+
+    color: aliceblue;
+    font-weight: 800;
+    font-size: 20px;
+    text-align: center;
+}
+        
+}
