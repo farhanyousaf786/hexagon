@@ -5,7 +5,7 @@ import FrontPage from '../FrontPage/FrontPage';
 import Products from '../ProductsPage/Products';
 import Services from '../ServicesPage/Services';
 import './LandingPage.css';
-import Gallery from '../GalleryPage/Gallery';
+import GalleryPage from '../GalleryPage/GalleryPage';
 
 
 
@@ -54,7 +54,7 @@ function LandingPage() {
      <div id='home'><FrontPage/></div>
      <div id='products'><Products/></div>
      <div id='services'><Services/></div>
-     <div id='gallery'><Gallery/></div>
+     <div id='gallery'><GalleryPage/></div>
      <div id='about'><About/></div>
     </div> 
     )
