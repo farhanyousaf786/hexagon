@@ -18,7 +18,7 @@ const Products = () => {
 
        <div class="slider">
 	<div class="slide-track">
-		<div class="slide">
+		<a></a><div class="slide">
 			<img src="https://imgur.com/UEUC3gE.png" alt="" />
 		</div>
 		<div class="slide">
