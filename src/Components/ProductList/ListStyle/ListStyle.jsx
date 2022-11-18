@@ -3,7 +3,7 @@ import './ListStyle.css'
 
 
 
-function ListStyle({name1, link1,}) {
+function ListStyle({name, link,}) {
 
 
 
@@ -14,7 +14,7 @@ function ListStyle({name1, link1,}) {
    
     <div className='ss-list'>
 
-        <a href={link1}>{name1}</a>
+        <a href={link}>{name}</a>
 
     </div>
   

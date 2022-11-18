@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import './ProductList.css';
 import AliceCarousel from 'react-alice-carousel';
 import "react-alice-carousel/lib/alice-carousel.css";
-import cardsArr from './productData1';
+import cardsArr from './productData';
 import ListStyle from './ListStyle/ListStyle';
 
 
@@ -16,8 +16,8 @@ const cards = cardsArr.map((data, idx) => {
   return (
     <ListStyle
       key={idx}
-      name1={data.name}
-      link1={data.link}
+      name={data.name}
+      link={data.link}
 
     />
   );
