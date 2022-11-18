@@ -16,8 +16,8 @@ const cards = cardsArr.map((data, idx) => {
   return (
     <ListStyle
       key={idx}
-      name={data.icon}
-      link={data.name}
+      name={data.name}
+      link={data.link}
 
     />
   );

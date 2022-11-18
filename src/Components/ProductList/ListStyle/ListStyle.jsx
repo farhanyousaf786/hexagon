@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 
 
 
-const ListStyle = () => {
+function ListStyle({name, link,}) {
 
 
 
