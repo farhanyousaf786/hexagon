@@ -10,7 +10,7 @@ const ProductList = () => {
 
   useEffect(() => {
     
-console.log("tesing")
+console.log(cardsArr.length)
 
   });
 
