@@ -14,13 +14,13 @@ function ListStyle({name, link,}) {
    
     <div className='ss-list'>
 
-      { name == "WINSAFE SUPERMOD PLATFORMS MANUAL" ? (<div>SUSPENDED SCAFFOLDING PLATFORMS</div>) : <div></div>}
+      { name == "WINSAFE SUPERMOD PLATFORMS MANUAL" ? (<div className='p-title'>SUSPENDED SCAFFOLDING PLATFORMS</div>) : <div></div>}
 
-      { name == "SPIDER SC1000 / SC1500 OPERATOR'S MANUAL" ? (<div>SUSPENDED SCAFFOLDING MOTORS</div>) : <div></div>}
+      { name == "SPIDER SC1000 / SC1500 OPERATOR'S MANUAL" ? (<div className='p-title'>SUSPENDED SCAFFOLDING MOTORS</div>) : <div></div>}
 
-      { name == "WINSAFE 1500 SERIES OUTRIGGER SYSTEM" ? (<div>Suspended Scaffolding Outrigger Systems</div>) : <div></div>}
+      { name == "WINSAFE 1500 SERIES OUTRIGGER SYSTEM" ? (<div className='p-title'>Suspended Scaffolding Outrigger Systems</div>) : <div></div>}
 
-      { name == "ADJUSTABLE ROPE LANYARD" ? (<div>Suspended Scaffolding Accessories</div>) : <div></div>}
+      { name == "ADJUSTABLE ROPE LANYARD" ? (<div className='p-title'>Suspended Scaffolding Accessories</div>) : <div></div>}
 
         <a href={link} target="_blank" rel="noopener noreferrer">{name}</a>
 
