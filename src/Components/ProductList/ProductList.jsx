@@ -28,7 +28,7 @@ const cards = cardsArr.map((data, idx) => {
   
   <div className="p-list">
 
-  <centerr><div className='p-head'>LIST OF PRODUCT</div></centerr>
+  <centerr><div className='p-head'>-PRODUCTS-</div></centerr>
 
   
   <center><h2>{cards}</h2></center>
