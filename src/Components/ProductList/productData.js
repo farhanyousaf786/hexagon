@@ -116,7 +116,7 @@ export default [
         "link": "https://switchappimages.nyc3.digitaloceanspaces.com/Hexagon/3.pdf"
     },
     {
-        "name": "WINSAFE 1500 SERIES OUTRIGGER SYSTEM",
+        "name": "WINSAFE 1500 SERIES OUTRIGGER SYSTEM 2",
         "link": "https://switchappimages.nyc3.digitaloceanspaces.com/Hexagon/4.pdf"
     },
     {
