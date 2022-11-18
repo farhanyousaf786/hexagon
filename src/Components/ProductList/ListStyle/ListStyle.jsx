@@ -1,8 +1,9 @@
 import React, { useState, useEffect } from 'react';
+import './ListStyle.css'
 
 
 
-function ListStyle({name, link,}) {
+function ListStyle({name1, link1,}) {
 
 
 
@@ -11,12 +12,9 @@ function ListStyle({name, link,}) {
  
     <>
    
-    <div className='list-style'>
+    <div className='ss-list'>
 
-        <a href={link}>{name}</a>
-
-  
-
+        <a href={link1}>{name1}</a>
 
     </div>
   

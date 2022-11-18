@@ -16,8 +16,8 @@ const cards = cardsArr.map((data, idx) => {
   return (
     <ListStyle
       key={idx}
-      name={data.name}
-      link={data.link}
+      name1={data.name}
+      link1={data.link}
 
     />
   );
@@ -26,9 +26,9 @@ const cards = cardsArr.map((data, idx) => {
 
   return (
   
-  <div className="gallery-size">
+  <div className="p-list">
 
-  <center><h2>Product is in  Development..</h2></center>
+  <center><h2>{cards}</h2></center>
   </div>
 
      
