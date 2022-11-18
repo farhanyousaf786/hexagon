@@ -1,7 +1,13 @@
 @media only screen and (min-width: 1224px) {
 
-  .gallery-size  h1{
+  .p-list  h1{
         color: blue;
+    }
+
+    .p-list{
+
+background-color: white;
+
     }
 
 
@@ -11,7 +17,7 @@
 @media only screen and (max-width: 1224px) {
 
 
-  .gallery-size  h1{
+  .p-list  h1{
         color: blue;
     }
 

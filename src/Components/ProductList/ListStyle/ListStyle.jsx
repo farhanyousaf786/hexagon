@@ -14,7 +14,7 @@ function ListStyle({name, link,}) {
    
     <div className='ss-list'>
 
-        <a href={link}>{name}</a>
+        <a href={link} target="_blank" rel="noopener noreferrer">{name}</a>
 
     </div>
   
