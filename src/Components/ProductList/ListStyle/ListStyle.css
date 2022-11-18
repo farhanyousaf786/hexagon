@@ -46,13 +46,15 @@ a:active {
 
     .p-title{
 
-        font-size: 17px;
+        font-size: 10px;
         padding: 5px;
         background-color: blue;
         width: 50%;
         border-radius: 20px;
         color: white;
         margin-bottom: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
         
         }
         

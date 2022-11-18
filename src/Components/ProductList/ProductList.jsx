@@ -9,7 +9,9 @@ import ListStyle from './ListStyle/ListStyle';
 
 const ProductList = () => {
 
-
+  useEffect(() => {
+    window.scrollTo(0, 0)
+  }, [])
 
 const cards = cardsArr.map((data, idx) => {
 
