@@ -8,10 +8,19 @@ function ListStyle({name, link,}) {
 
   return (
   
-  <div className="gallery-size">
+ 
+    <>
+   
+    <div className='list-style'>
 
-  <center><h2>Product is in  Development..</h2></center>
-  </div>
+        <a href={link}>{name}</a>
+
+  
+
+
+    </div>
+  
+    </>
 
      
   );
