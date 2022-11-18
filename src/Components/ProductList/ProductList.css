@@ -1,17 +1,17 @@
 .p-list  h1{
-  color: blue;
+  color: rgb(255, 255, 255);
 }
 
 .p-list{
 
-background-color: white;
+background-color: rgb(6, 0, 129);
 
 
 }
 
 .p-head{
 
-
+color: white;
   text-align: center;
   align-items: center;
   font-size: 35px;
