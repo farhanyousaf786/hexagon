@@ -136,7 +136,7 @@
                     "https://switchappimages.nyc3.digitaloceanspaces.com/Hexagon/16.pdf"),
                 options("FALLSTOP WIRE FORM CONNECTOR",
                     "https://switchappimages.nyc3.digitaloceanspaces.com/Hexagon/17.pdf"),
-                options("FALLSTOP WIRE ROPE GRAB",
+                options("",
                     "https://switchappimages.nyc3.digitaloceanspaces.com/Hexagon/18.pdf"),
                 options("GRIPGRAB ROPE GRAB",
                     "https://switchappimages.nyc3.digitaloceanspaces.com/Hexagon/19.pdf"),

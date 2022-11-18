@@ -39,65 +39,142 @@ export default [
     },
     
 
-    //---------------------------SUSPENDED SCAFFOLDING MOTORS-------------------------------------//
+    //---------------------------SUSPENDED SCAFFOLDING MOTORS----------------------------------//
 
     {
         "name": "SPIDER SC1000 / SC1500 OPERATOR'S MANUAL",
         "link": "https://switchappimages.nyc3.digitaloceanspaces.com/Hexagon/33.pdf"
     },
     {
-        "name": "SKY CLIMBER SERVICE BULLETIN #151",
+        "name": "SKYCLIMBER COMPACT 750 HOIST MANUAL",
         "link": "https://switchappimages.nyc3.digitaloceanspaces.com/Hexagon/34.pdf"
     },
     {
-        "name": "SKY CLIMBER SERVICE BULLETIN #151",
+        "name": "SKYCLIMBER COMPACT 1000 HOIST MANUAL",
         "link": "https://switchappimages.nyc3.digitaloceanspaces.com/Hexagon/35.pdf"
     },
     {
-        "name": "SKY CLIMBER SERVICE BULLETIN #151",
+        "name": "GORILLA CLIMBER MANUAL HOIST OPERATING MANUAL",
         "link": "https://switchappimages.nyc3.digitaloceanspaces.com/Hexagon/36.pdf"
     },
     {
-        "name": "SKY CLIMBER SERVICE BULLETIN #151",
+        "name": "GRIPHOIST MECHANICAL HOIST MANUAL",
         "link": "https://switchappimages.nyc3.digitaloceanspaces.com/Hexagon/37.pdf"
     },
     {
-        "name": "SKY CLIMBER SERVICE BULLETIN #151",
+        "name": "HILO",
         "link": "https://switchappimages.nyc3.digitaloceanspaces.com/Hexagon/38.pdf"
     },
     {
-        "name": "SKY CLIMBER SERVICE BULLETIN #151",
+        "name": "LNX OPERATOR'S MANUAL 03112014",
         "link": "https://switchappimages.nyc3.digitaloceanspaces.com/Hexagon/40.pdf"
     },
     {
-        "name": "SKY CLIMBER SERVICE BULLETIN #151",
+        "name": "GENERATORS QUICK REFERENCE",
         "link": "https://switchappimages.nyc3.digitaloceanspaces.com/Hexagon/41.pdf"
     },
     {
-        "name": "SKY CLIMBER SERVICE BULLETIN #151",
+        "name": "SKYCLIMBER ALPHA HOIST 1000",
         "link": "https://switchappimages.nyc3.digitaloceanspaces.com/Hexagon/42.pdf"
     },
     {
-        "name": "SKY CLIMBER SERVICE BULLETIN #151",
+        "name": "SKYCLIMBER CX 1250 HOIST",
         "link": "https://switchappimages.nyc3.digitaloceanspaces.com/Hexagon/43.pdf"
     },
     {
-        "name": "SKY CLIMBER SERVICE BULLETIN #151",
+        "name": "SKYCLIMBER® MODEL 4 HOIST",
         "link": "https://switchappimages.nyc3.digitaloceanspaces.com/Hexagon/44.pdf"
     },
     {
-        "name": "SKY CLIMBER SERVICE BULLETIN #151",
+        "name": "TRACTEL® TIRAK® TE MANUAL",
         "link": "https://switchappimages.nyc3.digitaloceanspaces.com/Hexagon/45.pdf"
     },
     {
-        "name": "SKY CLIMBER SERVICE BULLETIN #151",
+        "name": "TRACTEL® TIRAK MOTORS 2015 EDITION MANUAL",
         "link": "https://switchappimages.nyc3.digitaloceanspaces.com/Hexagon/46.pdf"
     },
     {
-        "name": "SKY CLIMBER SERVICE BULLETIN #151",
+        "name": "TRACTEL® TMS-600 MANUAL HOIST MANUAL",
         "link": "https://switchappimages.nyc3.digitaloceanspaces.com/Hexagon/47.pdf"
     },
 
+
+
+    ///*********** Suspended Scaffolding Outrigger Systems ************///
+
+
+    {
+        "name": "WINSAFE 1500 SERIES OUTRIGGER SYSTEM",
+        "link": "https://switchappimages.nyc3.digitaloceanspaces.com/Hexagon/1.pdf"
+    },
+    {
+        "name": "CABLE TRUSS INSTRUCTIONS",
+        "link": "https://switchappimages.nyc3.digitaloceanspaces.com/Hexagon/2.pdf"
+    },
+    {
+        "name": "DELTAJIBS",
+        "link": "https://switchappimages.nyc3.digitaloceanspaces.com/Hexagon/3.pdf"
+    },
+    {
+        "name": "WINSAFE 1500 SERIES OUTRIGGER SYSTEM",
+        "link": "https://switchappimages.nyc3.digitaloceanspaces.com/Hexagon/4.pdf"
+    },
+    {
+        "name": "13.5' REACH WINSAFE OUTRIGGER",
+        "link": "https://switchappimages.nyc3.digitaloceanspaces.com/Hexagon/6.pdf"
+    },
+    {
+        "name": "Winsafe Cable Truss System 18' or  20'",
+        "link": "https://switchappimages.nyc3.digitaloceanspaces.com/Hexagon/7.pdf"
+    },
+
+
+
+
+     ///*********** Suspended Scaffolding Accessories ************///
+
+    {
+        "name": "",
+        "link": "https://switchappimages.nyc3.digitaloceanspaces.com/Hexagon/9.pdf"
+    },
+    {
+        "name": "",
+        "link": "https://switchappimages.nyc3.digitaloceanspaces.com/Hexagon/10.pdf"
+    },
+
+    {
+        "name": "",
+        "link": "https://switchappimages.nyc3.digitaloceanspaces.com/Hexagon/11.pdf"
+    },
+
+    {
+        "name": "",
+        "link": "https://switchappimages.nyc3.digitaloceanspaces.com/Hexagon/12.pdf"
+    },
+    {
+        "name": "",
+        "link": "https://switchappimages.nyc3.digitaloceanspaces.com/Hexagon/13.pdf"
+    },
+    {
+        "name": "",
+        "link": "https://switchappimages.nyc3.digitaloceanspaces.com/Hexagon/14.pdf"
+    },
+    {
+        "name": "",
+        "link": "https://switchappimages.nyc3.digitaloceanspaces.com/Hexagon/15.pdf"
+    },
+    {
+        "name": "",
+        "link": "https://switchappimages.nyc3.digitaloceanspaces.com/Hexagon/16.pdf"
+    },
+    {
+        "name": "",
+        "link": "https://switchappimages.nyc3.digitaloceanspaces.com/Hexagon/17.pdf"
+    },
+    {
+        "name": "FALLSTOP WIRE ROPE GRAB",
+        "link": "https://switchappimages.nyc3.digitaloceanspaces.com/Hexagon/18.pdf"
+    },
 
 
 
