@@ -8,11 +8,24 @@ import cardsArr from './list1';
 
 const ProductList = () => {
 
-  useEffect(() => {
+//   useEffect(() => {
     
-console.log(cardsArr.length)
+// console.log(cardsArr.length)
 
-  });
+//   });
+
+const cards = cardsArr.map((data, idx) => {
+
+  return (
+    <ListStyle
+      key={idx}
+      img={data.icon}
+      title={data.name}
+
+    />
+  );
+});
+
 
   return (
   
