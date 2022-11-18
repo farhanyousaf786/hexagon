@@ -134,46 +134,50 @@ export default [
      ///*********** Suspended Scaffolding Accessories ************///
 
     {
-        "name": "",
+        "name": "ADJUSTABLE ROPE LANYARD",
         "link": "https://switchappimages.nyc3.digitaloceanspaces.com/Hexagon/9.pdf"
     },
     {
-        "name": "",
+        "name": "ALUMINUM TRIPOD",
         "link": "https://switchappimages.nyc3.digitaloceanspaces.com/Hexagon/10.pdf"
     },
 
     {
-        "name": "",
+        "name": "ANCHOR SLING RATED 5,000 LBS.",
         "link": "https://switchappimages.nyc3.digitaloceanspaces.com/Hexagon/11.pdf"
     },
 
     {
-        "name": "",
+        "name": "ANCHOR SLING RATED 10,000 LBS.",
         "link": "https://switchappimages.nyc3.digitaloceanspaces.com/Hexagon/12.pdf"
     },
     {
-        "name": "",
+        "name": "ANCHORAGE D-RING",
         "link": "https://switchappimages.nyc3.digitaloceanspaces.com/Hexagon/13.pdf"
     },
     {
-        "name": "",
+        "name": "CONNECTORS - CARBINERS",
         "link": "https://switchappimages.nyc3.digitaloceanspaces.com/Hexagon/14.pdf"
     },
     {
-        "name": "",
+        "name": "FALLSTOP BEAM CLAMP",
         "link": "https://switchappimages.nyc3.digitaloceanspaces.com/Hexagon/15.pdf"
     },
     {
-        "name": "",
+        "name": "FALLSTOP BEAM TROLLEY",
         "link": "https://switchappimages.nyc3.digitaloceanspaces.com/Hexagon/16.pdf"
     },
     {
-        "name": "",
+        "name": "FALLSTOP WIRE FORM CONNECTOR",
         "link": "https://switchappimages.nyc3.digitaloceanspaces.com/Hexagon/17.pdf"
     },
     {
         "name": "FALLSTOP WIRE ROPE GRAB",
         "link": "https://switchappimages.nyc3.digitaloceanspaces.com/Hexagon/18.pdf"
+    },
+    {
+        "name": "GRIPGRAB ROPE GRAB",
+        "link": "https://switchappimages.nyc3.digitaloceanspaces.com/Hexagon/19.pdf"
     },
 
 
