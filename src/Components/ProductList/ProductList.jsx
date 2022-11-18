@@ -29,6 +29,7 @@ const cards = cardsArr.map((data, idx) => {
   <div className="p-list">
 
   <center><h2>{cards}</h2></center>
+  
   </div>
 
      
