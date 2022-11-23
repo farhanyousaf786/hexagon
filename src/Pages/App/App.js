@@ -12,6 +12,7 @@ function App() {
     <Routes>
     // Index route or home page
     <Route  path="/" element={<LandingPage />} />
+    // Route for product page
     <Route  path="/products-list" element={<ProductList />}
         />
     </Routes>
