@@ -4,6 +4,8 @@ import './About.css';
 
 
 const About = () => {
+
+  // Define location object and pass details
   const location = {
     address: '1600 Amphitheatre Parkway, Mountain View, california.',
     lat: 40.716280,
