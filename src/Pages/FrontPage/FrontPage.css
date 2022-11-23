@@ -1,47 +1,47 @@
-.sliderimg{
-  width: 100%;
-  height: 93vh;
-  object-fit: cover
+.sliderimg {
+    width: 100%;
+    height: 93vh;
+    object-fit: cover
 }
 
 @media only screen and (min-width: 1224px) {
 
-    .img{
+    .img {
 
         width: 250px;
         height: 280px;
     }
 
-    .logo{
+    .logo {
 
         position: absolute;
         top: 40vh;
         left: 43%;
-        
-        
-        }
 
-        .fp-container{
 
-            background-color: rgb(2, 14, 138);
-            min-height: 100vh;
-            padding-top: 60px;
-            
-        
-        
-        }
+    }
 
-        .front-shadding{
+    .fp-container {
 
-            background-color: rgba(181, 187, 255, 0.563);
-            width: 100%;
-            height: 100.1vh;
-            position: absolute;
-            top: 0;
-            left: 0;
-         }
-  
-        
+        background-color: rgb(2, 14, 138);
+        min-height: 100vh;
+        padding-top: 60px;
+
+
+
+    }
+
+    .front-shadding {
+
+        background-color: rgba(181, 187, 255, 0.563);
+        width: 100%;
+        height: 100.1vh;
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+
+
 
 }
 
@@ -49,13 +49,13 @@
 
 @media only screen and (max-width: 1224px) {
 
-    .img{
+    .img {
 
         width: 100px;
         height: 120px;
     }
 
-    .logo{
+    .logo {
 
         position: absolute;
         top: 25%;
@@ -63,28 +63,16 @@
         position: absolute;
         left: 50%;
         margin-right: -50%;
-        transform: translate(-50%, -50%) 
+        transform: translate(-50%, -50%)
+    }
 
-        }
+    .fp-container {
 
-        .fp-container{
+        background-color: rgb(2, 14, 138);
+        width: 100%;
+        height: 43.3%;
+        padding-top: 60px;
 
-            background-color: rgb(2, 14, 138);
-            width: 100%;
-            height: 43.3%;
-            padding-top: 60px;
-        
-        }
-        
-        /* .front-shadding{
-
-            background-color: rgba(181, 187, 255, 0.563);
-            width: 100%;
-            height: 46vh;
-            position: absolute;
-            top: 0;
-            left: 0;
-         } */
-        
+    }
 
 }

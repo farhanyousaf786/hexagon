@@ -4,12 +4,11 @@ import "./GalleryPage.css"
 
 
 const GalleryPage = () => {
- 
+
   return (
-    
     <div className="gal-container">
       <h1>Gallery</h1>
-      <Gallery/>
+      <Gallery />
     </div>
   );
 };
