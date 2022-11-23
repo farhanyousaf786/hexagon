@@ -8,8 +8,9 @@ function App() {
 
   return (
     <div className="app-background">
-    <Routes>
     //Route initialisation to use it in Navigation
+    <Routes>
+    // Index route or home page
     <Route  path="/" element={<LandingPage />} />
     <Route  path="/products-list" element={<ProductList />}
         />
